@@ -1,0 +1,13 @@
+name: covid19
+title: covid19
+username:
+account: henrique-vedoveli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2571706
+bundleId: 3424270
+url: https://henrique-vedoveli.shinyapps.io/covid19/
+when: 1595473551.65655
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|test.R
